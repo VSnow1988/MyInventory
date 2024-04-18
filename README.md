@@ -7,7 +7,7 @@ This repo contains the project files for Android Studio at each stage of develop
 Original final project submitted in CS-360.
 
 ## MyInventory_1
-First enhancement made in CS499, focused on software design and development.
+First enhancement made in CS499, focused on software design and development. The main upgrade here was a UX redesign. Accompanying diagrams and personas are in the 'Design Documents' zip folder.
 
 ## MyInventory_2
 Second enhancement made in CS499, focused on algorithms and data structures.
