@@ -16,8 +16,7 @@ Second enhancement made in CS499, focused on algorithms and data structures.
 Third enhancement made in CS499, focused on databases.
 
 ### Known Issues 
-When attempting to load these files into Android Studio for viewing, there are many dependency and version issues that could arise.
-'Cannot find R.' - Try Build - clean and rebuild, File - empty the cache and restart, or check Gradle version and known bugs.
+When attempting to load these files into Android Studio for viewing, there are many dependency and version issues that could arise. If you come across the notorious 'Cannot find R.': Try Build - clean and rebuild, File - empty the cache and restart, or check Gradle version and known bugs.
 The database upgrade version requires an emulator with Google Play enabled and a security file to access the database.
 This has not been included for obvious reasons. You can use your own from your own firebase account if using this as a base or learning project - it will need to be placed in the base app directory.
 If you are a client, interviewer, or collaborator who would like to demo the project in an emulator yourself, I will provide you with security permissions.
