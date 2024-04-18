@@ -33,7 +33,8 @@ Code changes include:
 - Changes to deprecated code and no-longer supported or buggy Java libraries.
 - Addition of a Google Firestore database, with related code tested and functional.
 - The entire Login view and Users table is now handled by the Firestore database.
-
+- Complete numbered TODO/FIXME task list outlines the plan for upgrades and testing to create the deliverable product.
+  
 ### Using These Files
 
 When attempting to load these files into Android Studio for viewing, editing, or emulation, there are many dependency and version issues that could arise. This project was built on Android Studio Iguana, and successfully run during development with 'Pixel 3 API 33' for parts 0-2, and 'Pixel_3a_API_extension_level_7_x86_64' for part 3 and beyond. mulators are often problematic. It is ideal to use a development mobile device paired with the IDE if possible. If you come across the notorious 'Cannot find R.': Try Build - clean and rebuild, File - empty the cache and restart, or check Gradle version and known bugs. When all else fails, try importing the files individually into a new Android Studio project and altering for your project and development environment.
