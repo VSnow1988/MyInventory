@@ -17,7 +17,7 @@ Changes to the code include:
 - Handled IDE warnings.
 
 ## MyInventory_2
-Second enhancement made in CS499, focused on algorithms and data structures. Code changes include:
+Second enhancement made in CS499, focused on algorithms and data structures. The plan for this enhancement was to add validations, and review all functions' algorithmic logic for security and efficiency. Code changes include:
 - Security validations for all input.
 - Error handling and loop-closing.
 - Handled more IDE warnings and bugs.
