@@ -2,6 +2,7 @@
 Sample Android mobile application built in SNHU CS360, upgraded in CS499 Computer Science Capstone.
 
 This repo contains the project files for Android Studio at each stage of development over the course.
+The course/degree expectations are to show skill and understanding in collaboration, communication, algorithmic logic, tools and design innovation, and security.
 
 ## MyInventory_0
 Original final project submitted in CS-360.
