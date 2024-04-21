@@ -25,6 +25,7 @@ Second enhancement made in CS499, focused on algorithms and data structures. The
 - TODO/FIXME Task lists created.
 - Logging features added for debugging.
 - Improved documentation and commenting.
+- Fixed small but very important UI mistakes.
 
 ## MyInventory_3
 Third enhancement made in CS499, focused on databases. The plan for this enhancement was to transition the application to using a remote database and translate the tables into NoSQL for enhanced performance, security, and to allow the user to share access with others to the same inventory.
