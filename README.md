@@ -47,6 +47,6 @@ This has not been included, for obvious reasons. You can use your own from your 
 If you are a client, interviewer, or collaborator who would like to demo the project in an emulator yourself, I will provide you with security permissions.
 
 ### More Information
-This repo is displayed in my Github Pages portfolio created for the CS 499 Capstone Project. Further details, code review and documentation of the process can be found on https://vsnow1988.github.io/
+This repo is displayed in my Github Pages portfolio created for the CS 499 Capstone Project. Further details, code review and documentation of the process can be found on my capstone portfolio site: https://vsnow1988.github.io/
 
 
